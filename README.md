@@ -52,7 +52,8 @@ O dataset utilizado (`Dados_Comerciais.xlsx`) contém dados fictícios, mas real
 ---
 
 ## 📷 Visual do Dashboard
-<img width="1420" height="809" alt="image" src="https://github.com/user-attachments/assets/34143fd8-bb06-4313-bb3d-82ab0cc7d544" />
+<img width="1367" height="772" alt="image" src="https://github.com/user-attachments/assets/81bcec79-2f5a-4642-b452-7f03732140db" />
+
 
 ---
 
